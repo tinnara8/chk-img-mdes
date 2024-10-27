@@ -1,0 +1,5 @@
+# cv2
+flask
+imagehash
+flask_ngrok
+pyngrok

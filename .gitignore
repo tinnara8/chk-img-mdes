@@ -1,0 +1,17 @@
+/venv/*
+/datatest/*
+
+/build/*
+/buildPy/*
+
+/log/*
+/export/*
+
+
+
+*.exe
+
+*.spec
+
+
+
